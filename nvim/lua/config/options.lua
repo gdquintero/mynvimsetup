@@ -9,3 +9,4 @@ vim.opt.clipboard = "unnamedplus"
 vim.opt.swapfile = false
 vim.opt.termguicolors = true
 vim.cmd("highlight CursorLine cterm=NONE gui=NONE guibg=Grey20")
+vim.opt.termguicolors = true
