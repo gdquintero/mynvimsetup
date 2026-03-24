@@ -17,3 +17,5 @@ https://ohmyz.sh/ (oh my zsh)
 https://github.com/romkatv/powerlevel10k (powerlevel10k)
 
 https://gist.github.com/n1snt/454b879b8f0b7995740ae04c5fb5b7df (algunos plugins)
+
+Para configurar el portapapeles en linux hay que instalar xclip: sudo apt install xclip. En MacOS ya hay un gestor de portapapeles instalado (pbcopy).
